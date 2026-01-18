@@ -1,3 +1,6 @@
+<!-- Implementação do formulário de cadastro -->
+<?php include 'includes/header.php'; ?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -6,10 +9,9 @@
     <title>Sistema de Cadastro</title>
 </head>
 <body>
-    <div>
     
 
-    </div>
+
 </body>
 </html>
 
