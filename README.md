@@ -97,13 +97,6 @@ Este projeto aborda conceitos fundamentais de PHP:
 - Implementar validação server-side robusta
 - Usar HTTPS para comunicação segura
 
-
-## 👨‍💻 Autor
-
-**Victor Kaue**
-
-- GitHub: [@Victorkaue333](https://github.com/Victorkaue333)
-
 ## 🌟 Agradecimentos
 
 Projeto desenvolvido para fins educacionais e de aprendizado em PHP.
